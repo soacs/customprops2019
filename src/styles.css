@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+:root {
+  --first-color: #488cff;
+  --second-color: #ffff8c;
+  --third-color: #4ff;
+  --fourth-color: #2cff;
+}

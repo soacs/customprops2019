@@ -1,0 +1,18 @@
+#firstParagraph {
+  background-color: var(--third-color);
+  color: var(--fourth-color);
+}
+
+#secondParagraph {
+  background-color: var(--fourth-color);
+  color: var(--third-color);
+}
+
+#container {
+  --third-color: #48ff32;
+}
+
+#thirdParagraph {
+  background-color: var(--third-color);
+  color: var(--fourth-color);
+}
